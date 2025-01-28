@@ -1,4 +1,4 @@
-# warehouse-management-system-project
+# warehouse management system project
 The Warehouse Management System (WMS) is a software application that simulates the operations of a company's warehouse, enabling the sale of goods to clients and restocking from suppliers. The system comprises the following key components and functionalities:
 
 Information Model:
